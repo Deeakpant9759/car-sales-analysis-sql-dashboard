@@ -14,7 +14,7 @@ It focuses on building a **clean data pipeline** using SQL and creating an inter
 
 ## 💻 Tools Used
 - **SQL Server** — Data cleaning, deduplication, filling missing values
-- **Tableau / Power BI** — Dashboard design and data storytelling
+- **Tableau** — Dashboard design and data storytelling
 - **GitHub** — Version control and project sharing
 
 ---
@@ -45,7 +45,7 @@ Car sales data pipeline: SQL cleaning, deduplication, and visualization
 
 ## ⚡ How to Run
 1️⃣ Run the SQL scripts to clean and process the data in SQL Server.  
-2️⃣ Open the dashboard file (`.twbx` for Tableau or `.pbix` for Power BI) to explore the visualizations.  
+2️⃣ Open the dashboard file (`.twbx` for Tableau ) to explore the visualizations.  
 
 ---
 
@@ -66,5 +66,6 @@ This project taught me:
 
 ## ✉️ Contact
 Feel free to connect or provide feedback!
+Gmail:deepakpant9759@gmail.com
 
 
